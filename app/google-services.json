@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177871435560",
+    "project_id": "notes-pro-19969",
+    "storage_bucket": "notes-pro-19969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177871435560:android:0d5726d301bd480503c21d",
+        "android_client_info": {
+          "package_name": "com.theduc.notespro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177871435560-it7jrnp7cm859luimu2r2gbfh94jqfl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt7xgZ5B2nZTUIOzQ5uL0b964O8GKYHj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177871435560-it7jrnp7cm859luimu2r2gbfh94jqfl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
